@@ -1,0 +1,21 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "eonamplify-dev-20191017173318-authRole",
+            "UnauthRoleArn": "arn:aws:iam::251568713845:role/eonamplify-dev-20191017173318-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::251568713845:role/eonamplify-dev-20191017173318-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "eonamplify-dev-20191017173318-deployment",
+            "UnauthRoleName": "eonamplify-dev-20191017173318-unauthRole",
+            "StackName": "eonamplify-dev-20191017173318",
+            "StackId": "arn:aws:cloudformation:eu-west-1:251568713845:stack/eonamplify-dev-20191017173318/d3d044d0-f0fb-11e9-947c-0233b49b0800"
+        },
+        "categories": {
+            "auth": {
+                "eonamplify2b24259f": {
+                    "hostedUIProviderCreds": "[]"
+                }
+            }
+        }
+    }
+}
